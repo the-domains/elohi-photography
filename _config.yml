@@ -1,0 +1,28 @@
+name: Elohi Photography
+favicon: null
+layout_spectrum: 0.10258662793785334
+typography_spectrum: 0.7705216717440635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2840766597073525
+  lightness: 0.04594019730575383
+  saturation: 0.17722798604518175
+  rhythmicContrast: 0.2094735933933407
+purpose: []
